@@ -1,3 +1,3 @@
-# AI Open Network Research Project Example
+# AI Open Network Research Project
 
 ## Social media botnet detection and analysis
